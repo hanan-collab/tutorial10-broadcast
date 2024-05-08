@@ -24,3 +24,4 @@ dan di client.rs
 ```
 println!("HananAdipratama's computer - From server: {}", text);
 ```
+sehingga server bisa menangkap alamat client dan menampilkannya di pesan.
